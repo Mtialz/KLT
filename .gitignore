@@ -1,0 +1,5 @@
+.vscode/
+**/data/
+Python/code/__pycache__/
+Python/code/Session.vim
+*.pdf
